@@ -1,0 +1,12 @@
+TODO:
+
+- fragments
+- query complexity
+- pagination
+- filters
+
+- explain `!` in schema definition
+
+> Although optional, it is recommended to define linkContentType for your link fields for a better experience. The GraphQL schema uses this validation to determine the type of a link field.
+
+https://contentful.slack.com/archives/D3QLUHG9G/p1593507296014800

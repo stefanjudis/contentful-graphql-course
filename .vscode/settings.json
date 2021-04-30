@@ -1,0 +1,10 @@
+{
+  "window.autoDetectColorScheme": true,
+  "workbench.colorTheme": "Yi Light",
+  "workbench.preferredDarkColorTheme": "Yi Dark",
+  "workbench.preferredLightColorTheme": "Yi Light",
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.minimumContrastRatio": 7
+}
